@@ -4,7 +4,9 @@ turtlesim publisher subscriber srv example
 #1. Install turtlesim 
 
 #2 Configure the workspace 
+```
   $ source devel/setup.bash
+```
 
 #3. Run rosmaster:
 ```
